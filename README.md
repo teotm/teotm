@@ -11,6 +11,8 @@ Gotta be updating this later, so you will now more. Now have some things about m
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I used to code in HTML back in 2018, because I wanted to make something like Polish version of serebii.net (yes this also about Pokemon) [Click here if interested](https://github.com/teotm/poketeo)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teotm)](https://github.com/anuraghazra/github-readme-stats)
+
 # You will know more stuff about me in my [Steam Profile](https://steamcommunity.com/profiles/76561198841323551/). I'm gonna copy paste them now for a while:
 I'm a Polish guy who really loves playing video games. I'm also making a mod for Friday Night Funkin', so I'm kinda learning Haxe, but I would appreciate that if you will help me. If you are interested, you can send me friend request on Discord (and then we'll dm).
 
