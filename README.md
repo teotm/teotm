@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-Gotta be updating this later, so you will now more. Now have some things about me from this template.
-
-- 🔭 I’m currently working on ... [these FNF mods](https://pastebin.com/F2M89WfB)
-- 🌱 I’m currently learning ... Haxe (i think)
+- 🔭 I’m currently working on ... [these FNF mods](https://pastebin.com/tN0TnujZ)
+- 🌱 I’m currently learning ... Haxe to mod FNF, I plan on learning C++
 - 💬 Ask me about ... dunno anything, just don't ask me something gross or smthn 
-- 📫 How to reach me: ... No, I won't give you my E-mail address, but here's my Discord: teotm#9506
+- 📫 How to reach me: [Check here](#social-medias)
 - ⚡ Fun fact: ... I used to code in HTML back in 2018, because I wanted to make something like Polish version of serebii.net (yes this also about Pokemon) [Click here if interested](https://github.com/teotm/poketeo)
-- I'm male lol
+- ❤ Love status: single :(
+- I'm a minor. 15 years old to be exact. I'm also heterosexual.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teotm)](https://github.com/anuraghazra/github-readme-stats)
+(C and C++ are here cause I use [FNF MP4 video support](https://github.com/polybiusproxy/hxCodec), I did not touch the files)
+
+### Social Medias
+- [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
+- [GameJolt](https://gamejolt.com/@teotm)
+- [Twitter](https://twitter.com/TEOTM4)
+- [Steam](https://steamcommunity.com/profiles/76561198841323551/)
+- [Discord](https://pastebin.com/QxwkELpy) (username)
