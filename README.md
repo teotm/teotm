@@ -9,7 +9,7 @@
 - I'm a minor. 15 years old to be exact. I'm also heterosexual.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teotm)](https://github.com/anuraghazra/github-readme-stats)
-(C and C++ are here cause I use [FNF MP4 video support](https://github.com/polybiusproxy/hxCodec), I did not touch the files)
+(C and C++ are here cause I use [FNF MP4 video support](https://github.com/polybiusproxy/hxCodec), when it was not a Haxelib. I did not touch the files)
 
 ### Social Medias
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
