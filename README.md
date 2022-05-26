@@ -1,7 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teotm&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teotm)](https://github.com/anuraghazra/github-readme-stats)
-(C and C++ are here cause I use [FNF MP4 video support](https://github.com/polybiusproxy/hxCodec), when it was not a Haxelib. I did not touch the files)
+
+~~(C and C++ are here cause I use [FNF MP4 video support](https://github.com/polybiusproxy/hxCodec), when it was not a Haxelib. I did not touch the files)~~
 
 ### Hi there 👋
 
