@@ -19,4 +19,4 @@
 - [GameJolt](https://gamejolt.com/@teotm)
 - [Twitter](https://twitter.com/TEOTM4)
 - [Steam](https://steamcommunity.com/profiles/76561198841323551/)
-- [Discord](https://pastebin.com/QxwkELpy) (username)
+- [Discord](https://pastebin.com/QxwkELpy) (username, add only if you're a mutual friend)
