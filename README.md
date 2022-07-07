@@ -10,7 +10,7 @@
 - 💬 Ask me about ... dunno. Anything i guess, just don't ask me if I'll work on your FNF mod
 - 📫 How to reach me: [Check here](#social-medias)
 - ⚡ Fun fact: ... I used to code in HTML back in 2018, because I wanted to make something like Polish version of serebii.net [Click here if interested](https://github.com/teotm/poketeo)
-- ❤ Love stuff: I like girls and I'm single :(
+- ❤ Love stuff: I'm just a guy who likes girls and I'm single :(
 - I'm almost 16.
 
 ### Social Medias
