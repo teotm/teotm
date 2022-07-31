@@ -7,7 +7,7 @@
 | [Indie](https://www.youtube.com/watch?v=7YwhHT1HFCI)                                    | Kaskudek                                                                                    | teotm        | Sara Heric  | Kaskudek              |
 | [Discarded](https://www.youtube.com/watch?v=B5EU1_isITk)                                | Kaskudek                                                                                    | teotm        | OG Kaskudek | Kaskudek              |
 
-teotm coded everything in, no need to credit to make another column for song coders.
+teotm coded everything in, no need to credit to make another column for song coder, where everything is teotm.
 
 | Upcoming Song                                                 | Composer | Opponent   | Artist               |
 |---------------------------------------------------------------|----------|------------|----------------------|
