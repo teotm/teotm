@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning ... Haxe and C#
 - 📫 [How to reach me](#Social-Medias)
 
+### Before contacting me
+- I will not work on your project since I'm currently busy doing other stuff right now.
+
 ### Social Medias
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
 - [GameJolt](https://gamejolt.com/@teotm4)
