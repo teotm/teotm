@@ -10,9 +10,11 @@
 
 ### Before contacting me
 - I will not work on your project since I'm currently busy doing other stuff right now.
+### Have a question for me?
+- If you're a stranger for me, I'd prefer if you ask me a question on my Gamebanana profile. Discord is fine too though.
 
 ### Social Medias
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
 - [GameJolt](https://gamejolt.com/@teotm4)
 - [Discord](https://pastebin.com/QxwkELpy)
-- [Gamebanana](https://gamebanana.com/members/1932685)
+- [Gamebanana](https://gamebanana.com/members/1932685) (you can ask me questions here)
