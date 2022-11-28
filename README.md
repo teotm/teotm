@@ -11,7 +11,7 @@
 ### Before contacting me
 - I will not work on your project since I'm currently busy doing other stuff right now.
 ### Have a question for me?
-- If you're a stranger for me, I'd prefer if you ask me a question on my Gamebanana profile. Discord is fine too though.
+- Go to my Gamebanana profile.
 
 ### Social Medias
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
