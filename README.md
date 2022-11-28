@@ -15,6 +15,5 @@
 
 ### Social Medias
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
-- [GameJolt](https://gamejolt.com/@teotm4)
-- [Discord](https://pastebin.com/QxwkELpy)
+- [GameJolt](https://gamejolt.com/@teotm4
 - [Gamebanana](https://gamebanana.com/members/1932685) (you can ask me questions here)
