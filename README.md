@@ -17,3 +17,7 @@
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
 - [GameJolt](https://gamejolt.com/@teotm4)
 - [Gamebanana](https://gamebanana.com/members/1932685) (you can ask me questions here)
+- Public email (Will make one soon)
+- Discord
+- - Send me a DM on Gamebanana with the reason why do you want to add me
+- - Send me a message to my publi email with the reason why do you want to add me (I'll soon make one)
