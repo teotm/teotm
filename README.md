@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... [these FNF and Baldi mods](https://pastebin.com/tN0TnujZ)
-- 🌱 I’m currently learning ... Haxe and C#
+- 🌱 I’m currently learning ... Haxe, C# and Python
 - 📫 [How to reach me](#Social-Medias)
 
 ### Before contacting me
