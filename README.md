@@ -10,6 +10,7 @@
 
 ### Before contacting me
 - I will not work on your project since I'm currently busy doing other stuff right now.
+- If you've added me on Discord please consider the fact that I will not join your Discord community server. I don't want random people to DM me.
 ### Have a question for me?
 - Go to my Gamebanana profile.
 
