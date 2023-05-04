@@ -20,5 +20,4 @@
 - [Gamebanana](https://gamebanana.com/members/1932685) (you can ask me questions here)
 - Public email - teotm.four.public.mail@gmail.com
 - Discord
-	- Send me a DM on Gamebanana with the reason why do you want to add me
-	- Send me a message to my public email with the reason why do you want to add me
+	- Discord's gonna devolve soon by the looming update lol
