@@ -19,5 +19,4 @@
 - [GameJolt](https://gamejolt.com/@teotm4)
 - [Gamebanana](https://gamebanana.com/members/1932685) (you can ask me questions here)
 - Public email - teotm.four.public.mail@gmail.com
-- Discord
-	- Discord's gonna devolve soon by the looming update lol
+- Discord - teotm4 (mutual friends only)
