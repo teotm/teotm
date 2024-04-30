@@ -18,4 +18,4 @@
 - [YouTube](https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ)
 - [GameJolt](https://gamejolt.com/@teotm4)
 - [Gamebanana](https://gamebanana.com/members/1932685) (you can ask me questions here)
-- Discord - teotm4 (Can accept only if you're a friend of one of my friends)
+- Discord - teotm4
