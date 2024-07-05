@@ -4,4 +4,4 @@
 
 ### Hi there 👋
 
-my previous bio was really outdated and shit go check my twitter or smthn
+my previous bio was really outdated and shit like that go check my twitter or smthn
