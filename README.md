@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I will make a cooler looking bio in here soon, yuhhhhhhhhhhh
+But don't expect that I'll do it quickly
+Okay byes, waaaaaaaaaaaah
+
 <!--
 **teotm/teotm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
