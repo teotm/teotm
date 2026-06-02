@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I will make a cooler looking bio in here soon, yuhhhhhhhhhhh
-But don't expect that I'll do it quickly
+I will make a cooler looking bio in here soon, yuhhhhhhhhhhh<br>
+But don't expect that I'll do it quickly<br>
 Okay byes, waaaaaaaaaaaah
 
 <!--
